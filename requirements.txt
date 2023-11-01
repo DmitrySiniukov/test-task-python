@@ -1,0 +1,6 @@
+requests==2.31.0
+redis==5.0.1
+tokenizers==0.14.1
+transformers==4.34.1
+torch==2.1.0
+mock==5.1.0
